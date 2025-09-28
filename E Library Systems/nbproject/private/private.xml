@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/beans/Librarian.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/edit_book.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/add_book.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/beans/BookDAO.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/member_profile.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/servlets/MemberViewBooksServlet.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/librarian_register.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/MemberRegister.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/beans/Book.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/servlets/MemberLoginServlet.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/servlets/BorrowBookServlet.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/utils/DBUtil.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/beans/Member.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/librarian_profile.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/beans/LibrarianDAO.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/index.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/servlets/LibrarianRegisterServlet.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/servlets/MemberRegisterServlet.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/member_dashboard.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/servlets/LibrarianLoginServlet.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/servlets/MemberProfileServlet.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/view_books.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/view_books_member.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/servlets/MemberBookServlet.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/beans/MemberDAO.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/librarian_dashboard.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/update_member.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/librarian_login.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/web/member_login.jsp</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/ndewr/Documents/NetBeansProjects/E%20Library%20Systems/src/java/src/servlets/LibrarianBookServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

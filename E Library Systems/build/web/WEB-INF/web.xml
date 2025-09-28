@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee                               http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <display-name>E-Library System</display-name>
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+    <!-- Librarian Servlets -->
+    <servlet>
+        <servlet-name>LibrarianProfileServlet</servlet-name>
+        <servlet-class>src.servlets.LibrarianProfileServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LibrarianProfileServlet</servlet-name>
+        <url-pattern>/LibrarianProfileServlet</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>LibrarianRegisterServlet</servlet-name>
+        <servlet-class>src.servlets.LibrarianRegisterServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LibrarianRegisterServlet</servlet-name>
+        <url-pattern>/registerLibrarian</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>LibrarianLoginServlet</servlet-name>
+        <servlet-class>src.servlets.LibrarianLoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LibrarianLoginServlet</servlet-name>
+        <url-pattern>/loginLibrarian</url-pattern>
+    </servlet-mapping>
+    <!-- Member Servlets -->
+    <servlet>
+        <servlet-name>MemberRegisterServlet</servlet-name>
+        <servlet-class>src.servlets.MemberRegisterServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MemberRegisterServlet</servlet-name>
+        <url-pattern>/registerMember</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>MemberLoginServlet</servlet-name>
+        <servlet-class>src.servlets.MemberLoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MemberLoginServlet</servlet-name>
+        <url-pattern>/loginMember</url-pattern>
+    </servlet-mapping>
+    <!-- Other servlets, e.g., profile update, book management, logout -->
+    <servlet>
+        <servlet-name>LogoutServlet</servlet-name>
+        <servlet-class>src.servlets.LogoutServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LogoutServlet</servlet-name>
+        <url-pattern>/logout</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>ViewBooksServlet</servlet-name>
+        <servlet-class>src.servlets.MemberViewBooksServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ViewBooksServlet</servlet-name>
+        <url-pattern>/ViewBooksServlet</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>MemberProfileServlet</servlet-name>
+        <servlet-class>src.servlets.MemberProfileServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MemberProfileServlet</servlet-name>
+        <url-pattern>/MemberProfileServlet</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>LibrarianBookServlet</servlet-name>
+        <servlet-class>src.servlets.LibrarianBookServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LibrarianBookServlet</servlet-name>
+        <url-pattern>/LibrarianBookServlet</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>MemberBookServlet</servlet-name>
+        <servlet-class>src.servlets.MemberBookServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MemberBookServlet</servlet-name>
+        <url-pattern>/MemberBookServlet</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>BorrowBookServlet</servlet-name>
+        <servlet-class>src.servlets.BorrowBookServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>BorrowBookServlet</servlet-name>
+        <url-pattern>/BorrowBookServlet</url-pattern>
+    </servlet-mapping>
+    
+ 
+</web-app>
